@@ -1,0 +1,13 @@
+
+Name: Semen Varlamov	 Code: 12424	 debts: 0
+Name: Ivan Ivanov	 Code: 3012	 debts: 0
+Name: Putup Vova	 Code: 909	 debts: 0
+Name: Ursun The Divine	 Code: 1	 debts: 0
+Name: Mammon Collector	 Code: 666	 debts: 0
+Name: Aleksandr Oblomov	 Code: 2212	 debts: 0
+Name: Boris Britva	 Code: 4444	 debts: 0
+Name: Pol Dubov	 Code: 5555	 debts: 2
+Name: Ivan Telmnoholmov	 Code: 300	 debts: 2
+Name: Oleg Bocharov	 Code: 32	 debts: 3
+Name: Polina Eskina	 Code: 9562	 debts: 8
+Name: Vasia Pupkin	 Code: 322	 debts: 15
