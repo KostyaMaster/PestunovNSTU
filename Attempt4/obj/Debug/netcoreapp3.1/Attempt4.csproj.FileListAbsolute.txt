@@ -1,0 +1,15 @@
+D:\Kostya\ds\Мага\Attempt4\bin\Debug\netcoreapp3.1\Attempt4.exe
+D:\Kostya\ds\Мага\Attempt4\bin\Debug\netcoreapp3.1\Attempt4.deps.json
+D:\Kostya\ds\Мага\Attempt4\bin\Debug\netcoreapp3.1\Attempt4.runtimeconfig.json
+D:\Kostya\ds\Мага\Attempt4\bin\Debug\netcoreapp3.1\Attempt4.runtimeconfig.dev.json
+D:\Kostya\ds\Мага\Attempt4\bin\Debug\netcoreapp3.1\Attempt4.dll
+D:\Kostya\ds\Мага\Attempt4\bin\Debug\netcoreapp3.1\Attempt4.pdb
+D:\Kostya\ds\Мага\Attempt4\obj\Debug\netcoreapp3.1\Attempt4.csprojAssemblyReference.cache
+D:\Kostya\ds\Мага\Attempt4\obj\Debug\netcoreapp3.1\Attempt4.Form1.resources
+D:\Kostya\ds\Мага\Attempt4\obj\Debug\netcoreapp3.1\Attempt4.csproj.GenerateResource.cache
+D:\Kostya\ds\Мага\Attempt4\obj\Debug\netcoreapp3.1\Attempt4.AssemblyInfoInputs.cache
+D:\Kostya\ds\Мага\Attempt4\obj\Debug\netcoreapp3.1\Attempt4.AssemblyInfo.cs
+D:\Kostya\ds\Мага\Attempt4\obj\Debug\netcoreapp3.1\Attempt4.csproj.CoreCompileInputs.cache
+D:\Kostya\ds\Мага\Attempt4\obj\Debug\netcoreapp3.1\Attempt4.dll
+D:\Kostya\ds\Мага\Attempt4\obj\Debug\netcoreapp3.1\Attempt4.pdb
+D:\Kostya\ds\Мага\Attempt4\obj\Debug\netcoreapp3.1\Attempt4.genruntimeconfig.cache
